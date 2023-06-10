@@ -4,7 +4,9 @@
     "web": {
       "bundler": "metro"
     },
-    "name": "TeslaApp",
-    "slug": "TeslaApp"
+    "name": "teslaApp",
+    "slug": "TeslaApp",
+    "description": "Tesla App clone",
+    "privacy": "public"
   }
 }
